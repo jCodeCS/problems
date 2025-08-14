@@ -1,6 +1,6 @@
 name: "Leap Year Checker"
 author: "MrJ"
-slug: "jcodecs/problems/2025/leapyear"
+slug: "jCodeCS/problems/tree/main/2025/leapyear"
 version: "1.0"
 checks:
   leap_year:
