@@ -1,0 +1,7 @@
+name: "Leap Year Checker"
+author: "MrJ"
+slug: "leapyear"
+version: "1.0"
+checks:
+  leap_year:
+    desc: "Checks correctness of is_leap_year function"
