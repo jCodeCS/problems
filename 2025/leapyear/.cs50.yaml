@@ -1,7 +1,0 @@
-name: "Leap Year Checker"
-author: "MrJ"
-slug: "jcodecs/problems/2025/leapyear/main"
-version: "1.0"
-checks:
-  leap_year:
-    desc: "Checks correctness of is_leap_year function"
