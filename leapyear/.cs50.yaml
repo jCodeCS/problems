@@ -1,7 +1,7 @@
 name: "Leap Year Checker"
-author: "Your Name"
+author: "Mr. Jaramillo"
 slug: "mrjcsp/problems/2025/leapyear"
 version: "1.0"
 checks:
-  leap_year:
+  leapyear:
     desc: "Checks correctness of is_leap_year function"
